@@ -1,0 +1,180 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="cLEQ3AKa_-59vf8QNaTL">
+    <mxGraphModel dx="16163" dy="5819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rIATsVmGf_SHdCscd4so-136" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-3650" y="-520" width="2760" height="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-83" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry width="2760" height="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-87" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-88" value="CLIENTE&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1320" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-91" target="rIATsVmGf_SHdCscd4so-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-90" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-91" target="rIATsVmGf_SHdCscd4so-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-91" value="CONTATO" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="750" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-92" value="PRODUTO" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1320" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-96" target="rIATsVmGf_SHdCscd4so-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-96" target="rIATsVmGf_SHdCscd4so-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-96" target="rIATsVmGf_SHdCscd4so-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-96" value="PEDIDO" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1320" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-97" value="PAGAMNETO" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1900" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-98" value="ENTREGA" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="750" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-99" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;2 MODELAGEM CONCEITUAL&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1109" y="100" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-100" value="POSSUI" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1070" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-102" target="rIATsVmGf_SHdCscd4so-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-102" value="FAZ" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1340" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-104" target="rIATsVmGf_SHdCscd4so-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-104" value="POSSUI" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1090" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-106" target="rIATsVmGf_SHdCscd4so-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-106" value="POSSUI" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1660" y="1070" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-108" target="rIATsVmGf_SHdCscd4so-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-108" value="POSSUI" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1340" y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div id=&quot;post-message-renderer-1762602892885&quot; class=&quot;fui-Primitive ui-animation gc gd ge&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; animation-timing-function: ease-out; color: rgb(36, 36, 36); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;fui-Primitive&quot; id=&quot;menur1s&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Primitive ___y1h85m0 fuex12h f1xp3ca8 f41elcy&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div id=&quot;message-body-1762602892885&quot; role=&quot;group&quot; aria-labelledby=&quot;failure-status-1762602892885 tombstone-1762602892885 author-1762602892885 author-trust-label-1762602892885 sent-to-l1-1762602892885 importance-1762602892885 announcement-header-1762602892885 subject-line-1762602892885 content-1762602892885 adaptive-card-1762602892885 edited-1762602892885 attachments-1762602892885 timestamp-1762602892885&quot; class=&quot;fui-Primitive ___1kwdjom fgokp8y&quot; data-tabster=&quot;{&amp;quot;groupper&amp;quot;:{&amp;quot;tabbability&amp;quot;:2},&amp;quot;observed&amp;quot;:{&amp;quot;names&amp;quot;:[&amp;quot;1762602892885&amp;quot;]},&amp;quot;restorer&amp;quot;:{&amp;quot;type&amp;quot;:0}}&quot; data-shortcut-left-rail=&quot;true&quot; tabindex=&quot;0&quot; data-fui-focus-visible=&quot;&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Flex ___6g6z580 f22iagw f1vx9l62 fvr32vk f1x0x07i&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 0px 1.6rem 1.6rem; margin: 0px 0px 0.1rem; display: flex; flex-direction: column;&quot;&gt;&lt;div class=&quot;fui-Flex r7802u9 ___12jwg5y ftuwxu6 f1vx9l62 f1q9h2pe f10kwr27 flypziy fchy9kd fgvoroj f1oy3dpc f1sil6mw f9ijwd5 ffv4pqs fgyim4x f14q3lsm f9jx4fs f19l72ij frnyhdv fkq5uzf fwl63ro f1095u94 fpbf6y8 fy6vjqu fuo4419 fxx2sug f12oply1 fvyt4us f4ki1i f1onj47y f1jrvuk2 f1vrwrd5 f1tandro ff3017q f15llbqz fsaoqmu fcdawxx f1uakdsb f18c6rdl f1ds0vd8 f2yyzyc f1sjbqdg fh1aahx f1g4vdt5 fbzygsp fyy2ueq f1s5r85c f1l4vs6e f10pjld0 fkavt01&quot; data-mid=&quot;1762602892885&quot; data-reply-chain-id=&quot;1762602892885&quot; data-testid=&quot;message-body-flex-wrapper&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-align: start; padding: 0px 0.2rem; flex-direction: column; display: inline-flex; align-items: stretch; overflow: auto hidden; word-break: break-word;&quot;&gt;&lt;div class=&quot;fui-Primitive ___77lcry0 f10pi13n&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; position: relative;&quot;&gt;&lt;div id=&quot;see-more-content-1762602892885&quot; class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div dir=&quot;auto&quot; id=&quot;content-1762602892885&quot; data-tid=&quot;message-body&quot; class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" link="&lt;div id=&quot;post-message-renderer-1762602892885&quot; class=&quot;fui-Primitive ui-animation gc gd ge&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; animation-timing-function: ease-out; color: rgb(36, 36, 36); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;fui-Primitive&quot; id=&quot;menur1s&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Primitive ___y1h85m0 fuex12h f1xp3ca8 f41elcy&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div id=&quot;message-body-1762602892885&quot; role=&quot;group&quot; aria-labelledby=&quot;failure-status-1762602892885 tombstone-1762602892885 author-1762602892885 author-trust-label-1762602892885 sent-to-l1-1762602892885 importance-1762602892885 announcement-header-1762602892885 subject-line-1762602892885 content-1762602892885 adaptive-card-1762602892885 edited-1762602892885 attachments-1762602892885 timestamp-1762602892885&quot; class=&quot;fui-Primitive ___1kwdjom fgokp8y&quot; data-tabster=&quot;{&amp;quot;groupper&amp;quot;:{&amp;quot;tabbability&amp;quot;:2},&amp;quot;observed&amp;quot;:{&amp;quot;names&amp;quot;:[&amp;quot;1762602892885&amp;quot;]},&amp;quot;restorer&amp;quot;:{&amp;quot;type&amp;quot;:0}}&quot; data-shortcut-left-rail=&quot;true&quot; tabindex=&quot;0&quot; data-fui-focus-visible=&quot;&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div class=&quot;fui-Flex ___6g6z580 f22iagw f1vx9l62 fvr32vk f1x0x07i&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 0px 1.6rem 1.6rem; margin: 0px 0px 0.1rem; display: flex; flex-direction: column;&quot;&gt;&lt;div class=&quot;fui-Flex r7802u9 ___12jwg5y ftuwxu6 f1vx9l62 f1q9h2pe f10kwr27 flypziy fchy9kd fgvoroj f1oy3dpc f1sil6mw f9ijwd5 ffv4pqs fgyim4x f14q3lsm f9jx4fs f19l72ij frnyhdv fkq5uzf fwl63ro f1095u94 fpbf6y8 fy6vjqu fuo4419 fxx2sug f12oply1 fvyt4us f4ki1i f1onj47y f1jrvuk2 f1vrwrd5 f1tandro ff3017q f15llbqz fsaoqmu fcdawxx f1uakdsb f18c6rdl f1ds0vd8 f2yyzyc f1sjbqdg fh1aahx f1g4vdt5 fbzygsp fyy2ueq f1s5r85c f1l4vs6e f10pjld0 fkavt01&quot; data-mid=&quot;1762602892885&quot; data-reply-chain-id=&quot;1762602892885&quot; data-testid=&quot;message-body-flex-wrapper&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; text-align: start; padding: 0px 0.2rem; flex-direction: column; display: inline-flex; align-items: stretch; overflow: auto hidden; word-break: break-word;&quot;&gt;&lt;div class=&quot;fui-Primitive ___77lcry0 f10pi13n&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; position: relative;&quot;&gt;&lt;div id=&quot;see-more-content-1762602892885&quot; class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;div dir=&quot;auto&quot; id=&quot;content-1762602892885&quot; data-tid=&quot;message-body&quot; class=&quot;fui-Primitive&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; clear: left; list-style-type: disc;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-weight: bolder;&quot;&gt;Atributos&lt;/strong&gt;:&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;id_cliente (PK)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;nome_cliente&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;cpf_cliente (único)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;data_nasc_cliente&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;idade_cliente (derivado)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;endereço (multivalorado)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-weight: bolder;&quot;&gt;Relacionamentos&lt;/strong&gt;:&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;1:N com&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-weight: bolder;&quot;&gt;Contato&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-size: inherit;&quot;&gt;1:N com&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; font-weight: bolder;&quot;&gt;Pedido&lt;/strong&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;fui-Flex ___1f82lsw f22iagw f15yzfva f1xbjzol f19g0ac f10pi13n&quot; data-tid=&quot;channel-message-reaction-summary&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; padding: 0px 18px 6px; display: flex; z-index: 1; position: relative; margin-bottom: 2px;&quot;&gt;&lt;div data-tid=&quot;reactions-summary-item-renderer&quot; class=&quot;fui-Primitive ___x218rw0 f12haqzg&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; max-height: 26px;&quot;&gt;&lt;button type=&quot;button&quot; class=&quot;fui-Button r1alrhcs ___1odpevb fxugw4r f11d4kpn f1ijtazh f139oj5f ft1hn21 fuxngvv fwiml72 f1h0usnq fs4ktlq f16h9ulv fx2bmrt f1fg1p5m f1dfjoow f1j98vj9 f1tme0vf f4xjyn1 f18onu3q f9ddjv3 f17fgpbq fu97m5z f44lkw9 fy9rknc figsok6 fwrc4pm f1062rbf f1kxe85k f1ltdqvm f5mk7bh f22iagw f122n59 fb066o8 fe843f1&quot; data-tid=&quot;add-reaction-picker-entry-point-button&quot; data-track=&quot;false&quot; role=&quot;button&quot; tabindex=&quot;0&quot; data-tabster=&quot;{&amp;quot;restorer&amp;quot;:{&amp;quot;type&amp;quot;:1}}&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Mais reação&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; appearance: button; text-transform: none; overflow: hidden; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 12px; line-height: 16px; margin: 0px; align-items: center; display: flex; justify-content: center; text-decoration-line: none; vertical-align: middle; background-color: rgb(255, 255, 255); color: rgb(97, 97, 97); border-color: rgb(224, 224, 224); border-style: solid; border-width: 1px; border-image: none 100% / 1 / 0 stretch; outline-style: none; padding: 1px; min-width: 24px; border-radius: 10000px; font-weight: 400; transition-duration: 0.1s; transition-property: background, border, color; transition-timing-function: cubic-bezier(0.33, 0, 0.67, 1); height: 26px; width: 34px; max-width: 34px;&quot;&gt;&lt;span class=&quot;fui-Button__icon rywnvv2 ___hix1za0 fe5j1ua fjamq6b f64fuq3 fbaiahx&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; align-items: center; display: inline-flex; justify-content: center; font-size: 20px; height: 20px; width: 20px; --fui-Button__icon--spacing: 4px;&quot;&gt;&lt;svg data-tid=&quot;add-reaction-picker-entry-point-icon&quot; font-size=&quot;16px&quot; class=&quot;fui-Icon-regular ___76kvxq0 f1w7gpdv fez10in fg4l7m0 fut9mon&quot; fill=&quot;currentColor&quot; aria-hidden=&quot;true&quot; width=&quot;1em&quot; height=&quot;1em&quot; viewBox=&quot;0 0 20 20&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;&gt;&lt;path d=&quot;M17 9a8 8 0 1 0-7.41 7.98A5.46 5.46 0 0 1 9.2 16H9a7 7 0 1 1 7-6.8c.34.1.67.23.98.39L17 9Zm-7.98 5c.03-.34.1-.68.19-1H9a4 4 0 0 1-3.11-1.49.5.5 0 1 0-.78.63A5 5 0 0 0 9 14h.02Zm3.48-6.5a1 1 0 1 0-2 0 1 1 0 0 0 2 0Zm-5 0a1 1 0 1 0-2 0 1 1 0 0 0 2 0Zm11.5 7a4.5 4.5 0 1 1-9 0 4.5 4.5 0 0 1 9 0Zm-4-2a.5.5 0 0 0-1 0V14h-1.5a.5.5 0 0 0 0 1H14v1.5a.5.5 0 0 0 1 0V15h1.5a.5.5 0 0 0 0-1H15v-1.5Z&quot; fill=&quot;currentColor&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/button&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;i tabindex=&quot;0&quot; role=&quot;none&quot; data-tabster-dummy=&quot;&quot; aria-hidden=&quot;true&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; position: fixed; height: 1px; width: 1px; opacity: 0.001; z-index: -1; content-visibility: hidden; top: 1964px; left: 0px;&quot;&gt;&lt;/i&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;fui-Flex ___173zfir f22iagw f122n59 f18w1nra frkr69o f4x5sky f1b1jndt f1rcgpc9&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; border-top: 1px solid rgb(240, 240, 240); padding: 0.6rem 1.8rem 0px; display: flex; align-items: center; column-gap: 10px; max-width: 91rem; min-height: 4.8rem; color: rgb(36, 36, 36); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;div class=&quot;___87nhvx0 fau6ura f3052tw lpcCommonWeb-hoverTarget cw-container-103&quot; data-tid=&quot;post-message-quick-reply-avatar&quot; data-lpc-hover-target-id=&quot;lpc-react-target-8&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; cursor: default; height: fit-content; display: initial;&quot;&gt;&lt;span id=&quot;avatar-r3u&quot; aria-hidden=&quot;true&quot; aria-label=&quot;Foto do perfil de RICHARD GABRIEL DOS SANTOS.&quot; data-tid=&quot;post-message-quick-reply-avatar&quot; class=&quot;fui-Avatar r81b29z ___13qgqxd f64fuq3 fjamq6b f1tlnv9o f1uwoubl fid048z f13mqy1h fag2o0&quot; style=&quot;box-sizing: border-box; -webkit-font-smoothing: antialiased; display: inline-block; flex-shrink: 0; position: relative; vertical-align: middle; border-radius: 10000px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-weight: 600; font-size: 10px; width: 20px; height: 20px; min-width: 2rem; --fui-Avatar-badgeAlign: right; --fui-Avatar-badgeRadius: 3px; --fui-Avatar-badgeGap: 1px;&quot;&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" id="rIATsVmGf_SHdCscd4so-109">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+            <mxGeometry x="2220" y="660" width="290" height="360" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="rIATsVmGf_SHdCscd4so-110" value="id_cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1270" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-111" value="nome_cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1400" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-112" value="cpf_cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1620" y="710" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-113" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-117" target="rIATsVmGf_SHdCscd4so-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-117" target="rIATsVmGf_SHdCscd4so-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-117" target="rIATsVmGf_SHdCscd4so-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-116" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-117" target="rIATsVmGf_SHdCscd4so-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-117" value="endereço" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1520" y="560" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-118" value="idade" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1580" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-119" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.414;entryY=1.104;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-120" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.299;entryY=1.032;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-88" target="rIATsVmGf_SHdCscd4so-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-121" value="id_contato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="660" y="520" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-122" value="tipo_contato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="520" y="600" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-123" value="valor_contato" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="520" y="715" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-124" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.636;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-91" target="rIATsVmGf_SHdCscd4so-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-126" target="rIATsVmGf_SHdCscd4so-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-126" value="data_n_cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1530" y="790" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-127" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-91" target="rIATsVmGf_SHdCscd4so-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="720" as="sourcePoint" />
+            <mxPoint x="1040" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-128" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="rIATsVmGf_SHdCscd4so-127">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-129" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="rIATsVmGf_SHdCscd4so-136" source="rIATsVmGf_SHdCscd4so-100" target="rIATsVmGf_SHdCscd4so-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="734.29" as="sourcePoint" />
+            <mxPoint x="1290" y="734.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-130" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="rIATsVmGf_SHdCscd4so-129">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-131" value="rua" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1559" y="370" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-132" value="cidade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1747" y="500" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-133" value="CEP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1790" y="590" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-134" value="bairro" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="rIATsVmGf_SHdCscd4so-136">
+          <mxGeometry x="1690" y="410" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rIATsVmGf_SHdCscd4so-137" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="-6660" y="-515" width="2730" height="1810" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
